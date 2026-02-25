@@ -1,16 +1,80 @@
-# React + Vite
+# ⚡ EV Website using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Single Page EV (Electric Vehicle) Website** built using **React.js** with smooth animations, premium UI effects, and responsive layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+✔ Full Single Page Layout (No Scroll Website)  
+✔ Modern SaaS-Style Hero Section  
+✔ Smooth Animations  
+✔ Premium Button Hover Effects  
+✔ Responsive Design (Mobile + Desktop)  
+✔ Clean UI & Proper Alignment  
+✔ Interactive Dots & Play/Pause Button  
+✔ Professional CSS Styling  
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- CSS3 (Modern Styling + Animations)
+- JavaScript (ES6)
+- Vite / Create React App (Based on your setup)
+
+---
+
+## 📂 Project Structure
+EV-Website-using-React-
+│
+├── public/
+├── src/
+│ ├── components/
+│ │ └── Hero/
+│ │ ├── Hero.jsx
+│ │ └── Hero.css
+│ ├── assets/
+│ ├── App.jsx
+│ └── index.css
+│
+├── package.json
+└── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AdityaSadewale/EV-Website-using-React-.git
+
+Go into project folder:
+
+cd EV-Website-using-React-
+
+Install dependencies:
+
+npm install
+
+Start development server:
+
+npm run dev
+
+⭐ Support
+
+If you like this project:
+
+Give it a ⭐ on GitHub
+
+Share with others
+
+Fork and improve it
+
+👨‍💻 Author
+Aditya Sadewale
+GitHub: https://github.com/AdityaSadewale
+
