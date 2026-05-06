@@ -33,8 +33,6 @@ EV-Website-using-React-
 ├── src/
 │ ├── components/
 │ │ └── Hero/
-│ │ ├── Hero.jsx
-│ │ └── Hero.css
 
 
 ---
