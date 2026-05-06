@@ -35,10 +35,6 @@ EV-Website-using-React-
 │ │ └── Hero/
 │ │ ├── Hero.jsx
 │ │ └── Hero.css
-│ ├── assets/
-│ ├── App.jsx
-│ └── index.css
-│
 
 
 ---
