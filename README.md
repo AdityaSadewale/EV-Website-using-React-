@@ -31,8 +31,7 @@ EV-Website-using-React-
 │
 ├── public/
 ├── src/
-│ ├── components/
-│ │ └── Hero/
+
 
 
 ---
