@@ -26,9 +26,8 @@ A modern **Single Page EV (Electric Vehicle) Website** built using **React.js** 
 
 ---
 
-## 📂 Project Structure
-EV-Website-using-React-
-│
+
+
 
 
 
