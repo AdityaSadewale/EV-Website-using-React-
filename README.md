@@ -39,8 +39,6 @@ EV-Website-using-React-
 │ ├── App.jsx
 │ └── index.css
 │
-├── package.json
-└── README.md
 
 
 ---
