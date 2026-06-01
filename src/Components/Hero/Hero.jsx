@@ -19,7 +19,6 @@ const Hero = ({
         <p>{heroData.text2}</p>
       </div>
       
-
       <div className="hero-explore">
         <p>Explore the features</p>
         <img src={arrow_btn} alt="arrow" />
