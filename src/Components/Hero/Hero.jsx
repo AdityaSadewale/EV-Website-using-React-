@@ -18,6 +18,7 @@ const Hero = ({
         <p>{heroData.text1}</p>
         <p>{heroData.text2}</p>
       </div>
+      
 
       <div className="hero-explore">
         <p>Explore the features</p>
