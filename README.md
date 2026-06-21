@@ -2,7 +2,6 @@
 
 A modern **Single Page EV (Electric Vehicle) Website** built using **React.js** with smooth animations, premium UI effects, and responsive layout.
 
-
 ---
 
 ## 🚀 Features
