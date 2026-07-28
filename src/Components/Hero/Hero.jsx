@@ -45,7 +45,6 @@ const Hero = ({
           />
           <p>See the Video</p>
         </div>
-
         
       </div>
     </div>
